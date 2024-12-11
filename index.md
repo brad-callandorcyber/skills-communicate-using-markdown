@@ -5,3 +5,8 @@
 ``` python
 print("Hello World!")
 ```
+
+- [x] First task in the list
+- [ ] Second task in the list
+- [ ] ????
+- [ ] Profit
